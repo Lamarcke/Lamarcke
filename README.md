@@ -21,5 +21,5 @@ Apesar de ter sido projetado e lançado por mim, o feedback pós-lançamento foi
 Acredito que o Bibliomar tenha se tornado um repositório ideal, tanto para o desenvolvedor experiente quanto ao novato, para contribuir em um projeto nacional que busca resolver um problema que tantos brasileiros enfrentam: o difícil acesso a leitura.
 
 #### Contato:
-Qualquer contato pode ser feito através do meu email pessoal: cassiolamarcksilvafreitas@gmail.com
+Qualquer contato pode ser feito através do meu email pessoal: cassiolamarcksilvafreitas@gmail.com  
 E meu Discord: Lamarco#5809
