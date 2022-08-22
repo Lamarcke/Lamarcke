@@ -8,7 +8,7 @@ Acredito que a chave para mudar o mundo com a programação está no open-source
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamarcke&show_icons=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Atualmente trabalhando em:
+#### Atualmente trabalhando como:
 - Desenvolvedor fullstack na [VV Systems](https://www.linkedin.com/company/vv-systems/)
 - Docente/Discente na [Apenas o Básico](https://www.linkedin.com/company/apenas-o-b%C3%A1sico/)
 
