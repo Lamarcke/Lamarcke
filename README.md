@@ -10,7 +10,7 @@ Acredito que a chave para mudar o mundo com a programação está no open-source
 
 #### Atualmente trabalhando como:
 - Desenvolvedor fullstack na [VV Systems](https://www.linkedin.com/company/vv-systems/)
-- Docente/Discente na [Apenas o Básico](https://www.linkedin.com/company/apenas-o-b%C3%A1sico/)
+- Docente na [Apenas o Básico](https://www.linkedin.com/company/apenas-o-b%C3%A1sico/)
 
 #### Linguagens que mais utilizo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarcke&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
