@@ -15,16 +15,12 @@ Acredito que a chave para mudar o mundo com a programação está no open-source
 #### Linguagens que mais utilizo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarcke&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Atualmente, meu principal projeto pessoal é este:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lamarcke&repo=bibliomar-react&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)  
+#### Atualmente, meus principais projetos são esses:  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bibliomar&repo=bibliomar-react&locale=pt-br)](https://github.com/bibliomar/bibliomar-react)  
 
-Esse projeto me ensinou muito sobre a construção de aplicações web reais:
-Como uma aplicação lida com requisições, otimização de recursos, usabilidade e UX, além de toda a questão legal envolvida.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bibliomar&repo=biblioterra&locale=pt-br)](https://github.com/bibliomar/biblioterra)  
 
 Apesar de ter sido projetado e lançado por mim, o feedback pós-lançamento foi tão bom que resolvi deixar o projeto open-source.  
 
-Acredito que o Bibliomar tenha se tornado um repositório ideal, tanto para o desenvolvedor experiente quanto ao novato, para contribuir em um projeto nacional que busca resolver um problema que tantos brasileiros enfrentam: o difícil acesso a leitura.
-
 #### Contato:
 Qualquer contato pode ser feito através do meu email pessoal: cassiolamarcksilvafreitas@gmail.com  
-E meu Discord: Lamarco#5809
