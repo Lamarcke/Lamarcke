@@ -21,7 +21,7 @@ Você pode visualizar meu portfolio [aqui](https://lamarcke.github.io).
 #### Atualmente, meus principais projetos são esses:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bibliomar&repo=bibliomar-react&locale=pt-br)](https://github.com/bibliomar/bibliomar-client)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bibliomar&repo=bibliomar-serverr&locale=pt-br)](https://github.com/bibliomar/bibliomar-server)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bibliomar&repo=bibliomar-server&locale=pt-br)](https://github.com/bibliomar/bibliomar-server)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bibliomar&repo=bibliomar-scrapper&locale=pt-br)](https://github.com/bibliomar/bibliomar-scrapper)  
 
