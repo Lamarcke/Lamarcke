@@ -1,19 +1,15 @@
 ### Olá, eu sou o Lamarck 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. 
+Sou formado em Análise e Desenvolvimento de Sistemas. 
 Eu gosto de projetar, construir e compreender ideias que revolucionam o mundo aos poucos.  
 
-
-Acredito que a chave para mudar o mundo com a programação está no open-source.  
 
 ### Portfolio
 Você pode visualizar meu portfolio [aqui](https://lamarcke.github.io).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamarcke&show_icons=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Atualmente trabalhando como:
-- Desenvolvedor fullstack na [VV Systems](https://www.linkedin.com/company/vv-systems/)
-- Docente na [Apenas o Básico](https://www.linkedin.com/company/apenas-o-b%C3%A1sico/)
+- Desenvolvedor FullStack na [Unicity Facility](https://github.com/Unicity-Facility)
 
 #### Linguagens que mais utilizo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarcke&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
