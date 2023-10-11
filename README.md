@@ -9,7 +9,7 @@ Você pode visualizar meu portfolio [aqui](https://lamarcke.github.io).
 
 
 #### Atualmente trabalhando como:
-- Desenvolvedor FullStack na [Unicity Facility](https://github.com/Unicity-Facility)
+- Agente de T.I no [Banco do Brasil](https://github.com/bancodobrasil)
 
 #### Linguagens que mais utilizo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarcke&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
