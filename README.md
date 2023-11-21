@@ -5,6 +5,7 @@ Eu gosto de projetar, construir e compreender ideias que revolucionam o mundo ao
 
 #### Atualmente trabalhando como:
 - Agente de T.I e Programador no [Banco do Brasil](https://github.com/bancodobrasil)
+- Desenvolvedor Fullstack na [Unicity Facility](https://github.com/Unicity-Facility)
 
 #### Linguagens que mais utilizo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarcke&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
