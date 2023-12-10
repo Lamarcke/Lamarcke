@@ -8,7 +8,7 @@ Eu gosto de projetar, construir e compreender ideias que revolucionam o mundo ao
 - Desenvolvedor Fullstack na [Unicity Facility](https://github.com/Unicity-Facility)
 
 #### Projetos
-A maioria dos meus projetos está em Organizações aqui do Github.  
+A maioria dos meus projetos estão em Organizações aqui do Github.  
 [Game Node](https://github.com/game-node-app)  
 [Bibliomar](https://github.com/bibliomar)  
 
